@@ -26,12 +26,12 @@ export function removeEventListener(...args) {
 const canvas = new Canvas()
 
 export {canvas}
-export const {setTimeout} = window;
-export const {setInterval} = window;
-export const {clearTimeout} = window;
-export const {clearInterval} = window;
-export const {requestAnimationFrame} = window;
-export const {cancelAnimationFrame} = window;
+// export const {setTimeout} = window;
+// export const {setInterval} = window;
+// export const {clearTimeout} = window;
+// export const {clearInterval} = window;
+// export const {requestAnimationFrame} = window;
+// export const {cancelAnimationFrame} = window;
 export const pageXOffset = 0
 export const pageYOffset = 0
 export const clientLeft = 0
