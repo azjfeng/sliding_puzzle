@@ -3,10 +3,11 @@
   "packOptions": {
     "ignore": [
       {
-        "type": "suffix",
-        "value": ".map"
+        "value": ".map",
+        "type": "suffix"
       }
-    ]
+    ],
+    "include": []
   },
   "setting": {
     "urlCheck": false,
@@ -47,21 +48,11 @@
   "compileType": "game",
   "libVersion": "2.3.0",
   "projectname": "sliding_puzzle",
-  "isGameTourist": false,
-  "appid": "wx538da79ec4a26bea",
-  "condition": {
-    "search": {
-      "list": []
-    },
-    "conversation": {
-      "list": []
-    },
-    "game": {
-      "currentL": -1,
-      "list": []
-    },
-    "miniprogram": {
-      "list": []
-    }
-  }
+  "appid": "wxeedd88c5891451cf",
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "simulatorPluginLibVersion": {}
 }
